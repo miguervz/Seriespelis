@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Series Y Películas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Series Y Películas</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configuración</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_peliculas">Peliculas</string>
+    <string name="menu_series">Series</string>
+    <string name="boton_volver">Volver</string>
+    <string name="nombrePelicula1">Avatar</string>
+    <string name="directorPelicula1">Director: James Cameron</string>
+    <string name="repartoPelicula1">Reparto:Zoe Saldaá, Sam Worthington, Sigourney Weaver, Stephen Lang, Joel Moore, Giovanni Ribisi</string>
+    <string name="resumenPelicula1">Resumen: Año 2154. Jake Sully (Sam Worthington), un ex-marine condenado a vivir en una silla de ruedas, sigue siendo, a pesar de ello, un auténtico guerrero. Precisamente por ello ha sido designado para ir a Pandora, donde algunas empresas están extrayendo un mineral extraño que podría resolver la crisis energética de la Tierra. Para contrarrestar la toxicidad de la atmósfera de Pandora, se ha creado el programa Avatar, gracias al cual los seres humanos mantienen sus conciencias unidas a un avatar: un cuerpo biológico controlado
+        de forma remota que puede sobrevivir en el aire letal.</string>
+    <string name="nombrePelicula2">El Señor de los Anillos</string>
+    <string name="directorPelicula2">Director: Peter Jackson</string>
+    <string name="repartoPelicula2">Reparto: Elijah Wood, Viggo Mortensen, Ian McKellen, Sean Astin, Billy Boyd...</string>
+    <string name="resumenPelicula2">Resumen: Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de decidir el destino de la Tierra Media, y, por primera vez, parece que hay una pequeña esperanza. El interés del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, cuyo trono será reclamado por Aragorn. Sauron se dispone a lanzar un ataque decisivo contra Gondor. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor,
+        con la esperanza de llegar al Monte del Destino. </string>
+    <string name="nombrePelicula3">Jurassic Park</string>
+    <string name="directorPelicula3">Director: Steven Spielberg</string>
+    <string name="repartoPelicula3">Reparto: Same Neill, Laura Dern, Jeff Goldblum, Richard Attenorough...</string>
+    <string name="resumenPelicula3">Resumen:
+El multimillonario John Hammond consigue hacer realidad su sueño de clonar dinosaurios del Jurásico y crear con ellos un parque temático en una isla remota. Antes de abrirlo al público, invita a una pareja de eminentes científicos y a un matemático para que comprueben la viabilidad del proyecto. Pero las medidas de seguridad del parque no prevén el instinto de supervivencia
+        de la madre naturaleza ni la codicia humana.</string>
+    <string name="nombrePelicula4">Regreso al futuro</string>
+    <string name="directorPelicula4">Director: Zobert Zemeckis</string>
+    <string name="repartoPelicula4">Reparto: Michael J. Fox, Chistopher Lloyd, Crispin Glover, Lea Thompson, Thomas F.Wilson...</string>
+    <string name="resumenPelicula4">Resumen: a cinta transcurre en el año 1985, una época en la que el joven Marty McFly lleva una existencia anónima con su novia Jennifer. Los únicos problemas son su familia en crisis y un director al que le encantaría expulsarle del instituto, por lo que deberá hacer todo lo que esté en su mano para revertir esa situación y aparentar total normalidad. Amigo del excéntrico profesor Emmett Brown, una noche le acompaña a probar su nuevo experimento: viajar en el tiempo usando un DeLorean modificado. Sin duda alguna, se trata de una investigación realmente arriesgada pero que puede aportarles un enorme éxito en el futuro. No obstante, la prueba sale aún peor de lo esperado: unos traficantes de armas llegan y asesinan al científico. Marty se refugia en el coche y aparece transportado hasta 1955. Allí impide, a su pesar, que sus padres se conozcan y se verá en la obligación de hacer lo necesario para que vuelvan juntos. De lo contrario, él jamás podrá regresar al momento
+        actual debido a que nunca habrá existido.</string>
+    <string name="nombrePelicula5">Infiltrados</string>
+    <string name="directorPelicula5">Director: Martin Scorsese</string>
+    <string name="repartoPelicula5">Reparto: Leonardo DiCaprio, Matt Damon, Jack Nicholson, Mark Washberg, Martin Sheen, Ray Winstone, Vera Farmiga, Alec Baldwin...</string>
+    <string name="resumenPelicula5">Resumen: El Departamento de Policía de Massachussets se enfrenta a la mayor banda de crimen organizado de la ciudad de Boston. La estrategia consiste en acabar desde dentro con Frank Costello, el poderoso jefe de la mafia irlandesa (Jack Nicholson). El encargado de infiltrarse en la banda es un joven novato, Billy Costigan (Leonardo DiCaprio). Mientras Billy intenta ganarse la confianza de Costello, otro joven policía, Colin Sullivan (Matt Damon), sube rápidamente de categoría y ocupa un puesto en la unidad de Investigaciones Especiales, grupo de élite cuya misión también es acabar con Costello. Lo que nadie sabe es que Colin es un topo infiltrado en la policía por el propio Costello.</string>
+    <string name="nombreSerie1">Friends</string>
+    <string name="directorSerie1">Director: David Crane</string>
+    <string name="repartoSerie1">Reparto: Jeniffer Aniston , Courteney Cox, Lisa Kudrow, Matt LeBlanc, Matthew Perry, David Schiwmmer, James Michael Tyler, Elliot Gould, Paul Rudd, Giovanni Ribisi...</string>
+    <string name="temporadasSerie1">Temporadas: 10</string>
+    <string name="resumenSerie1">Resumen: Serie de TV (1994-2004). 10 temporadas. 236 episodios. "Friends" narra las aventuras y desventuras de seis jóvenes de Nueva York. Rachel (Jennifer Aniston), Monica (Courteney Cox), Phoebe (Lisa Kudrow), Ross (David Schwimmer), Chandler (Matthew Perry) y Joey (Matt LeBlanc) forman una unida pandilla de amigos que viven en Manhattan y que suelen reunirse en sus apartamentos o en su bar habitual, el Central Perk. A pesar de los numerosos cambios que se producen en sus vidas, su amistad es inquebrantable en la dura batalla por salir adelante en sus periplos profesionales y personales.</string>
+    <string name="nombreSerie2">Los Soprano</string>
+    <string name="directorSerie2">Director: David Chase</string>
+    <string name="repartoSerie2">Reparto: James Gandolfini, Edie Falco, Lorraine Bracco, Michael Imperioli, Tony Sirico, Aida Turturro, Dominic Chianese, Jamie-Lynn Sigler, Steve Van Zandt, Drea de Matteo, Steve Schirripa, Nancy Marchand, Dan Grimaldi, Joseph R. Gannascoli, Federico Castelluccio, Steve Buscemi, Joe Pantoliano, John Ventimiglia, Sharon Angela, Robert Iler, Frank Vincent, Vincent Pastore, Kathrine Narducci, David Proval, Peter Bogdanovich, Jerry Adler, Jason Cerbone, Vincent Curatola, Ray Abruzzo, Arthur J. Nascarella, Paul Schulze, Richard Portnow, David Margulies, Karen Young, Alla Kliouka Schaffer,
+       ...</string>
+    <string name="temporadasSerie2">Temporadas: 6</string>
+    <string name="resumenSerie2">Resumen: Serie de TV (1999-2007). 6 temporadas. 86 episodios. Crónica de la vida cotidiana y de las aventuras personales y profesionales de una familia mafiosa que vive en Nueva Jersey. Son gentes sencillas, pero implacables en sus ritos y tradiciones. La trama se basa en las confidencias del "capo" Tony Soprano (James Gandolfini) a su psicoanalista, la doctora Melfi (Lorraine Bracco).</string>
+    <string name="nombreSerie3">The Wire</string>
+    <string name="directorSerie3">Director:  David Simon</string>
+    <string name="repartoSerie3">Reparto: Dominic West, Lance Reddick, Sonja Sohn, Clarke Peters, Aidan Gillen, Wendell Pierce, Andre Royo, Idris Elba, Michael Kenneth Williams, Domenick Lombardozzi, Seth Gilliam, J.D. Williams, Jim True-Frost, Wood Harris, John Doman, Deirdre Lovejoy, Delaney Williams, Jamie Hector, Robert Wisdom, Frankie Faison, Corey Parker Robinson...</string>
+    <string name="temporadasSerie3">Temporadas: 5</string>
+    <string name="resumenSerie3">Resumen: Serie de TV (2002-2008). 5 temporadas. 60 episodios. En los barrios bajos de Baltimore, se investiga un asesinato relacionado con el mundo de las drogas. Un policía es el encargado de detener a los miembros de un importante cártel. La corrupción policial, las frágiles lealtades dentro de los cárteles y la miseria vinculada al narcotráfico son algunos de los problemas denunciados en esta serie. Parece inspirarse en series modernas como "Los Soprano" y en clásicos como "Policías de Nueva York (NYPD Blue)". El creador de la serie fue, durante años, reportero de la crónica negra de Baltimore, y uno de los coguionistas fue policía en la misma ciudad.</string>
+    <string name="nombreSerie4">Sons of Anarchy</string>
+    <string name="directorSerie4">Director: Kurt Sutter</string>
+    <string name="repartoSerie4">Reparto: Colin Morgan, Bradley James, Angel Coulby, Katie McGrath, Richard Wilson, Anthony Head y John Hurt</string>
+    <string name="temporadasSerie4">Temporadas: 9</string>
+    <string name="resumenSerie4">Resumen: Charlie Hunnam, Ron Perlman, Katey Sagal, Mark Boone Junior, Kim Coates, Tommy Flanagan, Mitch Pileggi, Maggie Siff, Theo Rossi, Ryan Hurst, William Lucking, Dayton Callie, Johnny Lewis, David Labrava, Taylor Sheridan, Ally Walker, Winter Ave Zoli, McNally Sagal, Titus Welliver, Adam Arkin, Paula Malcomson, Hal Holbrook, Qorianka Kilcher, Emilio Rivera, Kurt Sutter...</string>
+    <string name="nombreSerie5">Shameless</string>
+    <string name="directorSerie5">Director:  Paul Abbot</string>
+    <string name="repartoSerie5">Reparto: William H. Macy, Emmy Rossum, Ethan Cutkosky, Shanola Hampton, Justin Chatwin, Steve Howey, Emma Kenney, Jeremy Allen White, Cameron Monaghan, Joan Cusack, Laura Wiggins, Zach McGowan, Stephanie Fantauzzi, Michael Patrick McGill, Emma Greenwell, Noel Fisher, Dennis Cockrum, Danika Yarosh, Dermot Mulroney, Jane Levy, Brenden Sims, Isidora Goreshter, Mike Cochrane, Emily Bergl...</string>
+    <string name="temporadasSerie5">Temporadas: 10</string>
+    <string name="resumenSerie5">Resumen: Serie de TV (2011-Actualidad). 11 temporadas. Narra el día a día de la peculiar y disfuncional familia Gallagher, en la que el irresponsable Frank (William H. Macy), un desastroso padre soltero y alcohólico, se esfuerza muy poco por educar a sus seis inteligentes, salvajes e independientes hijos. En realidad la verdadera responsable de sacar adelante a la familia es la hija mayor, Fiona, una joven llena de recursos que ha tenido que madurar antes de tiempo haciendo el papel de madre. Remake de una serie británica homónima. </string>
+</resources>
